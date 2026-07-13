@@ -70,7 +70,7 @@ export default function PrincipalMessage() {
             }}
           >
             <img
-              src='/images/principal sir.jpg' // placeholder for female executive or leader, wait, Dr. KE Sreenivasa Murthy is male. Let's use a male professional placeholder.
+              src='/images/principal.jpg' // placeholder for female executive or leader, wait, Dr. KE Sreenivasa Murthy is male. Let's use a male professional placeholder.
               alt="Dr. N Sreekanth"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />
