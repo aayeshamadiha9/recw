@@ -4,16 +4,16 @@ export default function Management() {
   const managementList = [
     {
       role: 'FOUNDER & INSPIRATION',
-      name: 'Late Sri G. Pullaiah',
-      bio: 'Late Sri G. Pullaiah was a legendary educationalist of Kurnool whose vision transformed the educational landscape of Rayalaseema. He believed that engineering education for women is the cornerstone of societal progress. His philanthropic spirit and relentless focus on quality discipline continue to guide our group of institutions today.',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300&h=400', // placeholder
+      name: 'Sri G. Pullaiah',
+      bio: 'Sri G. Pullaiah was a legendary educationalist of Kurnool whose vision transformed the educational landscape of Rayalaseema. He believed that engineering education for women is the cornerstone of societal progress. His philanthropic spirit and relentless focus on quality discipline continue to guide our group of institutions today.',
+      image: '/images/pulliahSir.jpg', // placeholder
       quote: '"Discipline is the bridge between goals and accomplishment."'
     },
     {
       role: 'CHAIRMAN',
       name: 'Sri G.V.M. Mohan Kumar',
       bio: 'Sri G.V.M. Mohan Kumar, a visionary administrator, has led the Sri Sai Krishna Educational Society with outstanding dedication. Under his stewardship, Ravindra College of Engineering for Women has achieved Autonomous status, NAAC A+ accreditation, and recorded exceptional placement records. He continues to steer the college towards international recognition.',
-      image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=300&h=400', // placeholder
+      image: '/images/mohanSir.jpg', // placeholder
       quote: '"We do not just train engineering graduates; we empower independent, confident women ready to lead industries."'
     }
   ];
