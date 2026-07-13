@@ -70,7 +70,7 @@ export default function PrincipalMessage() {
             }}
           >
             <img
-              src='/images/Principal.jpg' // placeholder for female executive or leader, wait, Dr. KE Sreenivasa Murthy is male. Let's use a male professional placeholder.
+              src="/images/Principal.jpg" // placeholder for female executive or leader, wait, Dr. KE Sreenivasa Murthy is male. Let's use a male professional placeholder.
               alt="Dr. N Sreekanth"
               style={{ width: "100%", height: "100%", objectFit: "cover" }}
             />
@@ -110,6 +110,7 @@ export default function PrincipalMessage() {
         </div>
 
         {/* Message Content */}
+        {/* Message Content */}
         <div>
           <h2
             style={{
@@ -118,41 +119,75 @@ export default function PrincipalMessage() {
               color: "var(--primary-blue)",
             }}
           >
-            Dear Students and Parents,
+            Message from the Principal's Desk
           </h2>
-          <p style={{ fontSize: "1.1rem", lineHeight: "1.8" }}>
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
             It gives me immense pleasure to welcome you to Ravindra College of
-            Engineering for Women (Autonomous), Kurnool. In today's highly
-            competitive, technology-driven global arena, engineering education
-            is undergoing rapid transformations. As an institution exclusively
-            dedicated to women, we understand the critical role we play in
-            nurturing competent, self-assured women technocrats who will drive
-            the future.
+            Engineering for Women. You are entering higher education at a
+            remarkable time when technology is transforming every aspect of
+            human life. As aspiring engineers, you have the opportunity to
+            become creators of this future rather than mere spectators.
           </p>
-          <p style={{ fontSize: "1.1rem", lineHeight: "1.8" }}>
-            Conferred with the prestigious{" "}
-            <strong>Autonomous status by the UGC</strong> and accredited by{" "}
-            <strong>NAAC with an A+ Grade</strong>, RCEW has designed an
-            ecosystem where academic rigors are balanced with practical
-            application, project-based learning, and active industry
-            collaboration. Our B.Tech programs in Computer Science & Engineering
-            (CSE) and Electronics & Communication Engineering (ECE) are
-            accredited by the <strong>NBA</strong>, which bears testimony to our
-            standard of education.
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
+            At our institution, we are committed to nurturing technically
+            competent, ethically responsible, and globally competitive
+            engineers. Our objective extends beyond imparting academic
+            knowledge; we strive to develop problem solvers, innovators,
+            researchers, entrepreneurs, and leaders capable of addressing
+            real-world challenges and contributing meaningfully to society.
           </p>
-          <p style={{ fontSize: "1.1rem", lineHeight: "1.8" }}>
-            We place paramount emphasis on the holistic development of our
-            students. Apart from academic excellence, our training and placement
-            cell works round-the-clock to build coding skills, technical
-            expertise, and leadership capabilities. As a result, our students
-            are recruited by tier-1 MNCs like TCS, Wipro, Cognizant, and
-            Accenture, with packages reaching up to 12 LPA.
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
+            The college provides a vibrant learning ecosystem supported by
+            highly qualified and dedicated faculty members, modern laboratories,
+            industry collaborations, research facilities, innovation centers,
+            and digital learning resources. Our focus is on preparing graduates
+            who are not only employable but also capable of creating employment
+            opportunities through innovation and entrepreneurship.
           </p>
-          <p style={{ fontSize: "1.1rem", lineHeight: "1.8" }}>
-            I encourage all students to make full use of our campus amenities,
-            modern labs, digital library resources, and incubation cell.
-            Together, let us embark on an academic journey filled with learning,
-            innovation, and achievements.
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
+            We firmly believe that education is a partnership among students,
+            parents, faculty, and the institution. Therefore, we maintain
+            continuous interaction with parents and mentors to ensure the
+            holistic development, well-being, and academic success of every
+            student. We are committed to providing a safe, inclusive,
+            supportive, and intellectually stimulating environment where every
+            student can learn, grow, and excel.
+          </p>
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
+            The four years you spend on our campus will be a transformative
+            journey of learning, discovery, innovation, and personal growth. I
+            encourage you to dream big, work hard, embrace challenges, and
+            pursue excellence in everything you do. Let curiosity drive your
+            learning, innovation shape your thinking, and integrity guide your
+            actions.
+          </p>
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
+            As you embark on this exciting journey, remember that engineering is
+            not merely a profession—it is a responsibility to create solutions
+            that improve lives and build a better world. The future belongs to
+            those who are willing to learn, innovate, and lead.
+          </p>
+
+          <p style={{ fontSize: "1.1rem", lineHeight: "1.9" }}>
+            I wish you a rewarding academic journey and a future filled with
+            success, achievement, and fulfillment.
+          </p>
+
+          <p
+            style={{
+              fontSize: "1.2rem",
+              fontWeight: "600",
+              color: "var(--gold-dark)",
+              marginTop: "1.5rem",
+            }}
+          >
+            Wish you all Success!
           </p>
 
           <div style={{ marginTop: "3rem", textAlign: "right" }}>
@@ -168,6 +203,7 @@ export default function PrincipalMessage() {
             >
               Dr. N Sreekanth
             </span>
+
             <span
               style={{
                 fontSize: "0.9rem",
